@@ -1,4 +1,4 @@
-Hi there! I'm [Dmytro] 👋
+Hi there! I'm Dmytro 👋
 
 👨‍💻 About Me
 I am a Junior Frontend Developer on a mission to become a Full Stack Engineer. I love turning complex designs into clean, functional code and I am constantly leveling up my skills.
