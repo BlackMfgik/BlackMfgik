@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there! I'm [Dmytro] 👋
+👨‍💻 About Me
+I am a Junior Frontend Developer on a mission to become a Full Stack Engineer. I love turning complex designs into clean, functional code and I am constantly leveling up my skills.
 
-<!--
-**BlackMfgik/BlackMfgik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working on: Refining my Frontend skills and building responsive projects.
 
-Here are some ideas to get you started:
+🌱 Learning path: Deep diving into JavaScript and React, with Node.js next on the horizon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goal: To build high-performance, full-cycle web applications from scratch.
+
+📫 Let's Connect!
+
+LinkedIn                      Telegram
