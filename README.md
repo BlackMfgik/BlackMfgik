@@ -33,6 +33,11 @@ Hey, I'm  Dmytro
   <img src="https://streak-stats.demolab.com?user=BlackMfgik&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlackMfgik&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BlackMfgik&theme=tokyonight" height="150"/>
+</p>
+
 ---
 
 ##  Get in touch
