@@ -49,4 +49,5 @@
 
 ## Get in touch
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%BE-%D0%BB%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D0%B9-75a16638a/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/554465791358140417)
