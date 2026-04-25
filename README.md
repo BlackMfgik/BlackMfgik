@@ -36,6 +36,10 @@
 ![SEO](https://img.shields.io/badge/SEO-5C2D91?style=for-the-badge&logo=google-search-console&logoColor=white)
 ![Optimization](https://img.shields.io/badge/Optimization-4CAF50?style=for-the-badge&logo=lighthouse&logoColor=white)
 
+### AI Tools
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
 ---
 
 ## GitHub Stats
