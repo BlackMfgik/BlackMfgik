@@ -44,7 +44,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlackMfgik&theme=tokyonight" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BlackMfgik&theme=tokyonight" height="150"/>
 </p>
----
+
+
 ## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%BE-%D0%BB%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D0%B9-75a16638a/)
