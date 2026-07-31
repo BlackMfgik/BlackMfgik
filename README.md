@@ -1,10 +1,12 @@
 # Hey, I'm Dmytro 👋
 ---
 ## About Me
-- **Junior Fullstack Developer** based in Cherkasy, Ukraine
-- **Stack:** TypeScript, React 19, Next.js App Router, Fastify, Drizzle ORM, PostgreSQL
-- Building production apps with JWT/OAuth auth, REST APIs, and server-side rendering
-- Open to remote positions
+
+- **Junior Full-Stack Developer** based in Cherkasy, Ukraine 🇺🇦
+- **Stack:** TypeScript, React 19, Next.js 15, Node.js (Fastify), PostgreSQL, Drizzle ORM
+- Building production-ready full-stack applications with REST APIs, SSR, authentication, and payment integrations
+- Looking for my first commercial opportunity
+- Open to remote full-time, internship, or freelance roles
 ---
 ## Tech Stack
 ### Languages
