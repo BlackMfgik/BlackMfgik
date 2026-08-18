@@ -3,7 +3,6 @@
 ## About Me
 
 - **Junior Full-Stack Developer** based in Cherkasy, Ukraine 🇺🇦
-- **Stack:** TypeScript, React 19, Next.js 15, Node.js (Fastify), PostgreSQL, Drizzle ORM
 - Building production-ready full-stack applications with REST APIs, SSR, authentication, and payment integrations
 - Looking for my first commercial opportunity
 - Open to remote full-time, internship, or freelance roles
