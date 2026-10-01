@@ -1,53 +1,56 @@
-# Hey, I'm Dmytro 👋
+# Hi, I'm Dmytro 👋
+
+**Full-Stack Developer** · TypeScript · React / Next.js · Node.js / Fastify · PostgreSQL
+📍 Cherkasy, Ukraine · Remote · 🌐 [aokigahara.dev](https://aokigahara.dev)
+
+I build web products end to end — database schema, REST API, auth, payments, UI, tests and deployment.
+Freelancing for clients since 2025. **Open to full-time roles (Junior / Junior+)** and freelance projects.
+
 ---
-## About Me
 
-- **Junior Full-Stack Developer** based in Cherkasy, Ukraine 🇺🇦
-- Building production-ready full-stack applications with REST APIs, SSR, authentication, and payment integrations
-- Looking for my first commercial opportunity
-- Open to remote full-time, internship, or freelance roles
+## 🚀 Featured projects
+
+### [Okrip World](https://github.com/BlackMfgik/okrip-world) — commercial · [live](https://okrip.world)
+Website and player verification for a Ukrainian Minecraft network (3 servers):
+Discord login → application → moderation in Telegram → automatic whitelist on the game server.
+- Turborepo monorepo: Next.js web, Fastify API + background worker, shared Zod contracts
+- PostgreSQL + Drizzle, Java 21 Paper plugin with retry-based command delivery
+- CI on GitHub Actions: typecheck, lint, Vitest on real PostgreSQL, build
+
+### [Come By Shop](https://github.com/BlackMfgik/Come-by-shop-latest) — commercial · [live](https://come-by-shope-latest.vercel.app)
+Food ordering platform: menu, cart, accounts and admin panel.
+- Fastify REST API, PostgreSQL + Drizzle, validation, rate limiting, security headers
+- Email verification, Google OAuth, 2FA, WayForPay payments, Cloudinary uploads
+- Vitest tests on frontend and backend
+
+### [Nami Gear](https://github.com/BlackMfgik/Nami-gear) — personal · [live](https://nami.wtf)
+E-commerce store for gaming mousepads on Next.js 16 — Neon PostgreSQL catalog,
+persistent cart with Zustand, stock sync with TanStack Query.
+
 ---
-## Tech Stack
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend
-![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+## 🛠 Tech stack
 
-### Backend
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### Tooling & Infra
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+**Also:** Zustand · TanStack Query · JWT / OAuth / 2FA · WayForPay · Cloudinary · Telegram Bot API · Turborepo · Vercel · Railway
 
-### AI Tools
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ---
-## GitHub Stats
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlackMfgik&theme=tokyonight" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BlackMfgik&theme=tokyonight" height="150"/>
-</p>
 
+## 📫 Contact
 
-## Get in touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%BE-%D0%BB%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D0%B9-75a16638a/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/554465791358140417)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-lanovyi/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/A0klgahara)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lanovui0902@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://aokigahara.dev)
