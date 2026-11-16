@@ -4,6 +4,8 @@
 📍 Cherkasy, Ukraine · Remote · 🌐 [aokigahara.dev](https://aokigahara.dev)
 
 I build web products end to end — database schema, REST API, auth, payments, UI, tests and deployment.
+I also do **agentic engineering**: I work with AI coding agents (Claude Code and similar tools) to ship faster,
+with tests, CI and code review to keep the output reliable.
 Freelancing for clients since 2025. **Available for freelance and contract work**: e-commerce, client dashboards,
 auth and payments, third-party integrations, and fixes or new features for existing Next.js / Node apps.
 
